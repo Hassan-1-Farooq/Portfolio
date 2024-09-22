@@ -15,3 +15,8 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 - A visually appealing layout to showcase projects.
 - Links to project repositories.
 - An "About Me" section to provide insights into my background and skills.
+
+## Acknowledgments
+
+- - **Inam Ur Rehman** (inamurrehman420): Thank you for your guidance and support during the development of this portfolio. Your insights were invaluable.
+

@@ -18,5 +18,5 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 
 ## Acknowledgments
 
-- - **Inam Ur Rehman** (inamurrehman420): Thank you for your guidance and support during the development of this portfolio. Your insights were invaluable.
+- **Inam Ur Rehman** (inamurrehman420): Thank you for your guidance and support during the development of this portfolio. Your insights were invaluable.
 
